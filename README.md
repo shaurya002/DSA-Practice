@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shaurya002/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/shaurya002/DSA-Practice/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,8 +34,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shaurya002/DSA-Practice/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/shaurya002/DSA-Practice/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shaurya002/DSA-Practice/tree/master/0141-linked-list-cycle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shaurya002/DSA-Practice/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shaurya002/DSA-Practice/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shaurya002/DSA-Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
