@@ -27,5 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/shaurya002/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shaurya002/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/shaurya002/DSA-Practice/tree/master/0141-linked-list-cycle) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/shaurya002/DSA-Practice/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
