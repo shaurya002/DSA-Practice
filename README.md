@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shaurya002/DSA-Practice/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/shaurya002/DSA-Practice/tree/master/0203-remove-linked-list-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shaurya002/DSA-Practice/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/shaurya002/DSA-Practice/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
