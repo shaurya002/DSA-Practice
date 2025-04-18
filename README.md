@@ -24,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/shaurya002/DSA-Practice/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shaurya002/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shaurya002/DSA-Practice/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/shaurya002/DSA-Practice/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/shaurya002/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shaurya002/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
