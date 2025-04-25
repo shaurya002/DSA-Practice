@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/shaurya002/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shaurya002/DSA-Practice/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/shaurya002/DSA-Practice/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/shaurya002/DSA-Practice/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/shaurya002/DSA-Practice/tree/master/0367-valid-perfect-square) |
 ## Binary Search
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/shaurya002/DSA-Practice/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/shaurya002/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shaurya002/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/shaurya002/DSA-Practice/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/shaurya002/DSA-Practice/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/shaurya002/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/shaurya002/DSA-Practice/tree/master/0367-valid-perfect-square) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shaurya002/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shaurya002/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shaurya002/DSA-Practice/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/shaurya002/DSA-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shaurya002/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shaurya002/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/shaurya002/DSA-Practice/tree/master/0792-binary-search) |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shaurya002/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/shaurya002/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shaurya002/DSA-Practice/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/shaurya002/DSA-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shaurya002/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
@@ -72,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/shaurya002/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shaurya002/DSA-Practice/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/shaurya002/DSA-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shaurya002/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
@@ -81,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/shaurya002/DSA-Practice/tree/master/0203-remove-linked-list-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/shaurya002/DSA-Practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
