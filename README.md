@@ -102,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/shaurya002/DSA-Practice/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/shaurya002/DSA-Practice/tree/master/0645-set-mismatch) |
+## String
+|  |
+| ------- |
+| [1205-defanging-an-ip-address](https://github.com/shaurya002/DSA-Practice/tree/master/1205-defanging-an-ip-address) |
 <!---LeetCode Topics End-->
