@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/shaurya002/DSA-Practice/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/shaurya002/DSA-Practice/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/shaurya002/DSA-Practice/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1651-shuffle-string](https://github.com/shaurya002/DSA-Practice/tree/master/1651-shuffle-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -106,4 +107,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1205-defanging-an-ip-address](https://github.com/shaurya002/DSA-Practice/tree/master/1205-defanging-an-ip-address) |
+| [1651-shuffle-string](https://github.com/shaurya002/DSA-Practice/tree/master/1651-shuffle-string) |
 <!---LeetCode Topics End-->
