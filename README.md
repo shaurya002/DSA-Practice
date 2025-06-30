@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/shaurya002/DSA-Practice/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/shaurya002/DSA-Practice/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/shaurya002/DSA-Practice/tree/master/0367-valid-perfect-square) |
+| [1635-number-of-good-pairs](https://github.com/shaurya002/DSA-Practice/tree/master/1635-number-of-good-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shaurya002/DSA-Practice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/shaurya002/DSA-Practice/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/shaurya002/DSA-Practice/tree/master/1603-running-sum-of-1d-array) |
+| [1635-number-of-good-pairs](https://github.com/shaurya002/DSA-Practice/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/shaurya002/DSA-Practice/tree/master/1651-shuffle-string) |
 | [1791-richest-customer-wealth](https://github.com/shaurya002/DSA-Practice/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/shaurya002/DSA-Practice/tree/master/2048-build-array-from-permutation) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shaurya002/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shaurya002/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/shaurya002/DSA-Practice/tree/master/0645-set-mismatch) |
+| [1635-number-of-good-pairs](https://github.com/shaurya002/DSA-Practice/tree/master/1635-number-of-good-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shaurya002/DSA-Practice/tree/master/0169-majority-element) |
+| [1635-number-of-good-pairs](https://github.com/shaurya002/DSA-Practice/tree/master/1635-number-of-good-pairs) |
 ## Recursion
 |  |
 | ------- |
