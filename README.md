@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/shaurya002/DSA-Practice/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/shaurya002/DSA-Practice/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/shaurya002/DSA-Practice/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1580-shuffle-the-array](https://github.com/shaurya002/DSA-Practice/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/shaurya002/DSA-Practice/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/shaurya002/DSA-Practice/tree/master/1651-shuffle-string) |
 | [1791-richest-customer-wealth](https://github.com/shaurya002/DSA-Practice/tree/master/1791-richest-customer-wealth) |
