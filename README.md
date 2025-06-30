@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/shaurya002/DSA-Practice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1651-shuffle-string](https://github.com/shaurya002/DSA-Practice/tree/master/1651-shuffle-string) |
 | [2048-build-array-from-permutation](https://github.com/shaurya002/DSA-Practice/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/shaurya002/DSA-Practice/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -117,4 +118,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/shaurya002/DSA-Practice/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/shaurya002/DSA-Practice/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
